@@ -4,7 +4,9 @@ Welcome to my Portfolio. Below you will find a detailed description of the conte
 If you have any questions about anything in this Portfolio, feel free to contact me at any of the following:
 
 Email: doucettejnick@gmail.com
+
 Discord: DJNick#1785
+
 Twitter: @NIDoucette
 
 **Links to Past Projects**

@@ -1,0 +1,18 @@
+--Playable Games--
+
+**Lost and Found Delivery Service: https://www.coregames.com/games/4f0ec7/gamejamdrunkanddumb2021
+-I helped create this game as part of the 2021 48 hour Global Game Jam. This game jam was held entirely online.
+-This 3D platformer was made entirely in the Core engine, Core uses Lua for its scripting and was created using Unreal engine as a base.
+-In this game I mainly created Lua scripts that handled the player objectives, as well as NPC dialogue. I also helped in general design choices.
+
+**Core Strength: https://colby-bradley.itch.io/core-strength-v10
+-I helped create this game as part of the 48 hour Ludum Dare Discord Jam in January 2021.
+-This 2d top-down shooter was made in the Unity engine using C# as a scripting language.
+-In this game I created the players functionality using C# scripts and the Unity engine.
+
+--Non-Playable Games--
+
+**Nerdtopia: https://steamcommunity.com/sharedfiles/filedetails/?id=723220538
+-This was a game I worked on at Egroll Roll Digital as part of my month long Practicum at NBCC.
+-This game was developed in Unity using C# as a scripting language.
+-While working on this game I programmed new weapons for the characters, new rooms, and a few other features.

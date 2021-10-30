@@ -7,7 +7,7 @@
 
 **Lost and Found Delivery Service: https://www.coregames.com/games/4f0ec7/gamejamdrunkanddumb2021
 -I helped create this game as part of the annual 48 hour Global Game Jam in January 2021. This game jam was held entirely online.
--This 3D platformer was made entirely in the Core engine, Core uses Lua for its scripting and was created using Unreal engine as a base.
+-This 3D platformer was made entirely in the Core engine, Core uses Lua for its scripting and was created using the Unreal engine.
 -In this game I mainly created Lua scripts that handled the player objectives, as well as NPC dialogue. I also helped in general design choices.
 
 **Core Strength: https://colby-bradley.itch.io/core-strength-v10

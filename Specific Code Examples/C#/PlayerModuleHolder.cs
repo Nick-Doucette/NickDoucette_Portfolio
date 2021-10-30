@@ -3,7 +3,7 @@
  * This script was created to handle two different mechanics for the player.
  * 
  * It holds all the player weapons called "modules" in a List. 
- * It also handles swapping between these weapons and picking up new weapons dropped by the enemy.
+ * It also handles swapping between these modules and picking up new modules dropped by the enemy.
  * 
  * For reference, modules themselves are handled in separate scripts created by one of the other developers on this game.
  * This scripts simply deals with modules the player can use.

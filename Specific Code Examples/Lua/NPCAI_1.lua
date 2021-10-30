@@ -3,8 +3,10 @@
 DESCRIPTION COMMENT FOR PORTFOLLIO:
 
 This script was created to handle all player interaction with the NPC in the game "Lost and Found Delivery Service".
-It also handles all logic related to the players objective in the game (to find and return certain objects in the level).
+It also handles all functinality related to the players objective in the game (to find and return certain objects in the level).
 All NPC dialogue is placeholder text in this version.
+
+Its a little rough around the edges, but as this was my only good example of using lua, I thought it would be worth including.
 
 ]]
 

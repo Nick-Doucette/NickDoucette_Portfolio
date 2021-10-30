@@ -1,5 +1,10 @@
 --Playable Games--
 
+**You've Got To Be Shifting Me: https://colby-bradley.itch.io/youve-got-to-be-shifting-me
+-I helped create this game as part of the 72 hour Wowie Game Jam in Febuary 2021.
+-This 2D platformer was made in the Unity engine using C# as a scripting language.
+-In this game I worked on evironmental hazards, animation implementation, and Level design.
+
 **Lost and Found Delivery Service: https://www.coregames.com/games/4f0ec7/gamejamdrunkanddumb2021
 -I helped create this game as part of the annual 48 hour Global Game Jam in January 2021. This game jam was held entirely online.
 -This 3D platformer was made entirely in the Core engine, Core uses Lua for its scripting and was created using Unreal engine as a base.
@@ -10,14 +15,10 @@
 -This 2D top-down shooter was made in the Unity engine using C# as a scripting language.
 -In this game I created the players functionality using C# scripts and the Unity engine.
 
-**You've Got To Be Shifting Me: https://colby-bradley.itch.io/youve-got-to-be-shifting-me
--I helped create this game as part of the 72 hour Wowie Game Jam in Febuary 2021.
--This 2D platformer was made in the Unity engine using C# as a scripting language.
--In this game I worked on evironmental hazards, animation setup, and Level design.
-
 --Non-Playable Games--
 
 **Nerdtopia: https://steamcommunity.com/sharedfiles/filedetails/?id=723220538
--This was a game I worked on at Egroll Roll Digital as part of my month long Practicum at NBCC.
--This game was developed in Unity using C# as a scripting language.
--While working on this game I programmed new weapons for the characters, new rooms, and a few other features.
+-This was a game I worked on at EggRoll Digital as part of my month long Practicum for NBCC.
+-This game was developed in Unity using C# as a programing language.
+-While working on this game I developed new weapons for the characters, new rooms, and a few other minor features.
+-This game was never released by the studio, and is only available as trailers and screenshots.

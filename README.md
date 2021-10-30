@@ -23,4 +23,4 @@ Twitter: @NIDoucette
 
 -It is divided into subfolders named for the language the code is written in.
 
--All the code examples start with a description of what the code is trying to accomplish.
+-All the code examples start with a description of what it is trying to accomplish.

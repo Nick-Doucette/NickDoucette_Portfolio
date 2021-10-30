@@ -4,12 +4,16 @@
 // This class was created as part of an assignment I did while in college.
 // The assignment was to create an application that could read word search puzzles from a text file, and then solve them as fast as possible.
 // 
-// This class specifically contains the 2 different puzzle solving algorithms,
+// Reading and storing the puzzles were done in other sections
+// This class calls functions from those other classes to load in puzzles on object creation
+//
+// This class contains the 2 different puzzle solving algorithms,
 // The first is a brute force method, and the second is an improved method.
-// The brute force method is much slower and uses a basic recursive search to find every word in the puzzle.
+// This brute force method is much slower and uses a basic recursive search to find every word in the puzzle.
 // 
 // The improved method benefits from the use of a prefix tree class, as well an improved recursive search algorithm.
-// This prefix tree class is a much more efficient way of accesing the word list and comparing it to the puzzle.
+// This prefix tree class is a much more efficient way of storing and accessing the word list and comparing it to the puzzle.
+// The improved recursive search algorithm leverages the efficiency of the prefix tree class to greatly improve solve speed
 // 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 

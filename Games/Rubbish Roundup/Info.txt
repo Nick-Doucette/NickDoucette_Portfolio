@@ -1,0 +1,22 @@
+**Description
+
+-This folder contains an very early Android build of Rubbish Roundup created in the Unity engine
+
+-Rubbish Roundup is a physics based puzzle game where the player must navigate a small boat through various levels to clean up garbage from polluted waters
+
+-I worked on it as part of a team of 3 (2 designers/programmers, and 1 artist)
+
+-We worked on this game in our free time from Febuary 2021 until around August 2021
+
+-Although we intended to release it and could still finish it in the future, we havent had the free time to continue development
+
+-This is a very early build that contains a lot of the core mechanics we had in mind, and a few test levels for those mechanics
+
+-It also contains some art assets created by our artist, as well as a lot of placeholder art
+
+
+**Instructions for installation
+
+-To play this game, simply transfer the file "RR_TestBuild_301021.apk" to any android device, and run it
+
+-After running the .apk file, the app should be visible on your device for use

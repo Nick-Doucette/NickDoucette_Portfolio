@@ -17,6 +17,10 @@ Twitter: @NIDoucette
 
 -These are just links to examples of the things I worked on.
 
+**Games**
+
+-This folder contains playable builds of projects I have worked on
+
 **Specific Code Examples**
 
 -This folder contains specific code I wrote that I think is a good example of my work.
